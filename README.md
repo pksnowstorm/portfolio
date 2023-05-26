@@ -12,6 +12,8 @@ Javascript
 
 Imgur
 
+Screenshots:
+
 Getting Started:
 
 https://pksnowstorm.github.io/portfolio/
