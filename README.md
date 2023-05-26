@@ -12,7 +12,9 @@ Javascript
 
 Imgur
 
-Screenshots:
+Screenshot:
+
+![image](https://github.com/pksnowstorm/portfolio/assets/51368461/517cff52-219c-48aa-865a-4b9fe0a17389)
 
 Getting Started:
 
